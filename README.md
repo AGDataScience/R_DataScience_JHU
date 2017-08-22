@@ -1,1 +1,1 @@
-# R_DataScience_JHU
+# datasciencecoursera
